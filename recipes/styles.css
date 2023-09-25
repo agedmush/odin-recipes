@@ -1,0 +1,28 @@
+body {
+    background-color: #FF3131;
+    text-align: center;
+    font-family: Helvetica, Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+.main {
+    color: antiquewhite;
+}
+
+.link {
+    color: #FF3131;
+}
+
+.little {
+    color: bisque;
+}
+
+ul,
+ol {
+    text-align: left;
+}
+
+button {
+    font-size: 18px;
+    color: #FF3131;
+    background-color: black;
+}
